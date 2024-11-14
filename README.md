@@ -1,3 +1,5 @@
 # COMPUTER ARCHITECTURE AND ORGANIZATION PROJECT
 
-![image](https://github.com/user-attachments/assets/aeab72d1-fe89-404b-b018-a2d0f74f97f6)
+![image](https://github.com/user-attachments/assets/68432df5-3478-4071-baf6-f194b92126d0)
+
+
